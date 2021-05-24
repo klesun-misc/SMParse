@@ -1,0 +1,11 @@
+{
+  "name": "SMParse",
+  "author": "Terrance",
+  "description": "A web-based parser for StepMania chart files.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:klesun-misc/SMParse.git"
+  },
+  "version": "0.0.1"
+}
