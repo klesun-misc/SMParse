@@ -1,7 +1,6 @@
 In this fork I added a `package.json` so that you could reference this repository as an npm dependency like this:
 ```json
 {
-  ...
   "dependencies": {
     "SMParse": "https://github.com/klesun-misc/SMParse/tarball/7738f570a599637d79858e951349eb9b0427779d"
   }
